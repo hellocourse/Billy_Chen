@@ -1,0 +1,10 @@
+
+.idea/workspace.xml
+
+*.pyc
+
+*.txt
+
+/data
+
+*.csv
